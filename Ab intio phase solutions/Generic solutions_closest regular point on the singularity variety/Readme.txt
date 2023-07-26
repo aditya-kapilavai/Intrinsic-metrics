@@ -5,7 +5,7 @@ In the user-defined homotopy phase, these solutions are start solutions and the 
 858 paths are to be tracked for interpretation 2: The base is with undeformable material and the platform is a deformable triangular plate.
 858 paths are to be tracked for interpretation 3:  The base is with undeformable material and the platform is a deformable pin-jointed triangular bar structure.
 
-If you have any more text that needs correction or any other questions, feel free to ask!
+If you have any more text that needs correction or any other questions, feel free to ask. 
 
 
 
