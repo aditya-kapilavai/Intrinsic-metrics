@@ -1,6 +1,6 @@
 This folder contains generic finite solutions.
 
-If one is interested in computing the closest singular configuration for a 3-RPR manipulator, then the generic finite solutions can be used, which  were achieved by ``perfect path tracking''  Table 5- Table 8. In this case, it is sufficient to run only user-defined homotopies and post processing algorithms  discussed in Sections 4.2.1 and 4.1.3 of the paper of the paper. 
+If one is interested in computing the closest singular configuration for a 3-RPR manipulator, then the generic finite solutions can be used, which  were achieved by ``perfect path tracking''  Table 5 -Table 8. In this case, it is sufficient to run only user-defined homotopies and post-processing algorithms  discussed in Sections 4.2.1 and 4.1.3  of the paper. 
 
 
 Below is the data for 6 randomly chosen complex coordinates for running user-defined homotopies.
