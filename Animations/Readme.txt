@@ -3,6 +3,10 @@
 
 This folder contains animations of the singularity distance measure for the nine interpretations presented in Fig. 4 of the paper. 
 The chosen one-parametric metric motion of Eq. 5.2.
+
+![1](https://github.com/aditya-kapilavai/Intrinsic-metrics/assets/129060287/926877f1-5150-431e-bf6d-de128cc3373f)
+
+
 Interpretation 1: Both the base and platform are made of undeformable materials.
 Interpretation 2: The base is with undeformable material and the platform is a triangular plate
 Interpretation 3: The base is with undeformable material and the platform is a deformable pin-jointed triangular plate.
