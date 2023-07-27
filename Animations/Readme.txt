@@ -1,5 +1,5 @@
 This folder contains animations of the singularity distance measure for the nine interpretations presented in Fig. 4 of the paper. 
-The chosen one-parametric metric motion is given in Eq. (5.2). Please note that the one-parametric motion of the manipulator exhibits two singular configurations at φ = 0 and φ ≈ 3.0356972 radians. We discretize the motion parameter φ into 90 poses within the interval of 0 to 2π."
+The chosen one-parametric motion is given in Eq. (5.2). Please note that the one-parametric motion of the manipulator exhibits two singular configurations at φ = 0 and φ ≈ 3.0356972 radians. We discretize the motion parameter φ into 90 poses within the interval of 0 to 2π."
 
 Interpretation 1: Both the base and platform are made of undeformable materials.
 Interpretation 2: The base is with undeformable material and the platform is a triangular plate
