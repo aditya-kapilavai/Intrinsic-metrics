@@ -1,9 +1,3 @@
-
-
-
-This folder contains animations of the singularity distance measure for the nine interpretations presented in Fig. 4 of the paper. 
-The chosen one-parametric metric motion of Eq. 5.2.
-
 This folder contains animations of the singularity distance measure for the nine interpretations presented in Fig. 4 of the paper. The chosen one-parametric metric motion is given in Eq. (5.2).
 
 Interpretation 1: Both the base and platform are made of undeformable materials.
