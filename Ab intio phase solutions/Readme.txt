@@ -15,7 +15,7 @@ K4 := <1+3/5I, 2/3-11I>
 K5 := <2-2/3I, 1/5+7I>
 K6 := <1/2+5/3I, 7/11-5/3I>
 
-If you need any further assistance or have more text you'd like me to check, feel free to ask!
+
 
 
 
