@@ -2,6 +2,7 @@ This folder contains animations of the singularity distance measure for the nine
 The chosen one-parametric motion is given in Eq. (5.2). 
 Please note that the one-parametric motion of the manipulator exhibits two singular configurations at φ = 0 and φ ≈ 3.0356972 radians. 
 We discretize the motion parameter φ into 90 poses within the interval of 0 to 2π.
+These singularity distance measures correspond to the closest regular point on V = 0. The given  nonsingular configuration is indicated in green, and the closest singular configuration is shown in red
 
 Interpretation 1: Both the base and platform are made of undeformable materials.
 Interpretation 2: The base is with undeformable material and the platform is a triangular plate
@@ -15,7 +16,7 @@ Interpretation 9: Both the base and platform are pin-jointed triangular bar stru
 
 
 
-These singularity distance measures correspond to the closest regular point on V = 0. The given  nonsingular configuration is indicated in green, and the closest singular configuration is shown in red.
+
 
 
 
